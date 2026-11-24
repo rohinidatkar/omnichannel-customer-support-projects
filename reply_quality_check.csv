@@ -1,0 +1,11 @@
+scenario,channel,Greeting,Empathy,Ownership,Next step/time,Closing,score
+Delayed delivery,email,True,True,True,True,True,5/5
+Delayed delivery,chat,True,True,True,True,True,5/5
+Refund request,email,True,True,True,True,True,5/5
+Refund request,chat,True,True,True,True,True,5/5
+Billing error,email,True,True,True,True,True,5/5
+Billing error,chat,True,True,True,True,True,5/5
+Angry customer,email,True,True,True,True,True,5/5
+Angry customer,chat,True,True,True,True,True,5/5
+Wrong or damaged item,email,True,True,True,True,True,5/5
+Wrong or damaged item,chat,True,True,True,True,True,5/5

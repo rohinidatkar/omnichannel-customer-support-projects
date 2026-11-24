@@ -1,0 +1,6 @@
+Scenario,Resolution steps,Escalate to
+Delayed delivery,Check tracking -> contact logistics partner -> give a firm update time -> offer replacement/refund if missed,Logistics (parcel stuck > 5 days)
+Refund request,Verify order and policy -> raise refund -> share reference number and timeline -> follow up when credited,"Billing (above Rs 10,000)"
+Billing error,Verify transaction -> confirm error -> raise reversal -> send corrected invoice -> confirm credit,Billing / Finance
+Angry customer,Listen and acknowledge -> apologise -> take ownership -> give a time-bound resolution -> follow up proactively,Team lead (immediately)
+Wrong or damaged item,Ask for photo -> arrange free pickup -> ship replacement or refund -> track to closure,Team lead (if repeat complaint)

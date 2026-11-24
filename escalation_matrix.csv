@@ -1,0 +1,7 @@
+Level,Escalate to,Trigger,Response expectation
+L0,Front-line agent,"Standard query within policy; refund up to Rs 2,000; first contact",Resolve within SLA
+L1,Team lead,"Customer asks for a supervisor; 2nd contact on same issue; SLA 75% elapsed; refund Rs 2,000-10,000",Respond within 2 hours
+L2,Billing / Finance team,"Duplicate or incorrect charge; payment gateway failure; refund above Rs 10,000",Respond within 1 business day
+L2,Logistics team,Parcel lost or stuck more than 5 days; delivery partner dispute,Respond within 1 business day
+L3,Customer Experience head,Repeated failure after L1/L2; public or social media complaint; goodwill gesture needed,Respond within 4 hours
+L3,Legal / Compliance,Legal threat; data privacy or fraud concern; safety issue,Immediate hand-off
